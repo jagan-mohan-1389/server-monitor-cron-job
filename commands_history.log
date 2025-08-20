@@ -1,0 +1,114 @@
+===== Command history at 2025-08-20 07:18:10 =====
+pwd
+cp /mnt/C/Users/mohan.adidam/Downloads/Mohan_aws1.pem ~/
+cp/mnt/C/Users/mohan.adidam/Downloads/Mohan_aws1.pem ~/
+pwd
+cp /mnt/C/Users/mohan.adidam/Downloads/Mohan_aws1.pem ~/
+cd /mnt/C/Users/mohan.adidam/Downloads/Mohan_aws1.pem ~/
+cd /mnt/C/Users/mohan.adidam
+ls
+pwd
+chmod 400 Mohan_aws1.pem
+ssh -i Mohan_aws1.pem ec2-user@13.51.165.107
+ssh -i Mohan_aws1.pem ec2-user@51.21.249.24
+ssh-keygen -t rsa -b 4096 -C "auto@aws"
+ssh -i Mohan_aws1.pem ec2-user@51.21.249.24
+cat ~/.ssh/id_rsa.pub
+ssh -i Mohan_aws1.pem ec2-user@51.21.249.24
+ssh ec2-user@51.21.249.24
+vi gokul.txt
+cat gokul.txt
+vi raj.sh
+ls
+rmdir gokul.txt
+rm gokul.txt
+ls
+mkdir mohan
+ls
+cd mohan
+pwd
+ls -r
+ls
+cd ..
+ls
+ls -r
+cd mohan
+clear
+nano mohan.txt
+nano text1.txt
+ls
+cd mohan
+ls
+rm mohan.txt.save
+ls
+ls -l
+ls -a
+cd ..
+ls
+rmdir mohan
+ls
+exir
+exit
+vi jagan.txt
+ls
+rm jagan.txt
+ls
+exit
+echo "Mohan"
+echo $HOME
+echo "new line" >> file.txt
+ls
+mkdir file.txt
+cat > file1.txt
+ls
+cat file.txt
+cat file1.txt
+rm file1.txt
+rm file.txt
+ls
+exit
+ls
+history | grep ssh
+vi input.txt
+vi shift_file.sh
+chmod +x shift_file.sh
+./shift_file.sh input.txt 2 output.txt
+cat output.txt
+cat shift_file.sh
+nano shift_file.sh
+vi shift_file.sh
+cat output.txt
+exit
+sudo -root
+su - root
+cat > orders.csv << 'EOF'
+Order_ID,Order_Date,Customer_Name,Age,Membership,Order_Amount,Product_Category
+1001,2020-03-15,John Doe,28,Bronze,250,Electronics
+1002,2018-07-22,Alice Smith,34,Silver,450,Furniture
+1003,2019-11-10,Robert Brown,45,Gold,1250,Jewelry
+1004,2017-06-19,Emma Wilson,31,Bronze,80,Books
+1005,2021-02-02,David Miller,29,Gold,300,Electronics
+1006,2020-12-25,Olivia Taylor,40,Silver,900,Jewelry
+1007,2016-08-14,James Johnson,33,Bronze,120,Furniture
+1008,2021-01-05,Linda Davis,38,Gold,2000,Jewelry
+1009,2015-10-09,Michael White,52,Silver,600,Electronics
+1010,2018-04-11,Susan Martin,46,Bronze,150,Books
+1011,2018-05-09,Patricia Clark,42,Silver,150,Furniture
+1012,2019-03-03,Charles Lewis,36,Bronze,500,Electronics
+1013,2020-10-21,Karen Hall,27,Gold,1800,Jewelry
+EOF
+
+cat orders.csv
+vi orders.csv
+cat orders.csv
+vi orders.csv
+cay orders.csv
+cat orders.csv
+vi orders.csv
+cat orders.csv
+vi orders.csv
+cat orders.csv
+vi orders.csv
+exit
+
+
